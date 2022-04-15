@@ -1,4 +1,4 @@
-Customer Segmentation
+Customer Segmentation with K-means
 ![Alt text](age_distribution.png?raw=true "Age Distribution")
 
 
